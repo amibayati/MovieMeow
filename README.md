@@ -134,6 +134,4 @@ python MM.py
 - TMDB (The Movie Database) for movie/series info
 - deep-translator for Persian translation
 
-## Author
 
-[@amirebayati](https://github.com/amirebayati)
